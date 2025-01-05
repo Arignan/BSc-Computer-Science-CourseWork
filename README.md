@@ -1,4 +1,5 @@
 # BSc-Computer-Science-CourseWork
+[![Alt Text]([image-url](https://www.nasa.gov/wp-content/uploads/2023/03/iss061e045447.jpg?w=1041))]
 Based on University of Cambridge BSc Computerscience Degree Curriculum and Time table(https://www.cl.cam.ac.uk/teaching/2223/part3.html)
 (https://2024-25.timetable.cam.ac.uk/)
 (https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng)
