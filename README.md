@@ -53,7 +53,7 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
     	<li>theory</li>
       </ul>
       <p>New topics inspired by current research interests include computer architecture, data science and robotics.</p>
-    <li><a href="link-to-project-3">Year 4 (Part III, optional Masters)</a>: [The fourth year is designed for students considering a career in academic or industrial research.]</li>
+    <li><a href="link-to-project-3">Year 4 (Part III, optional Masters(MEng)</a>: [The fourth year is designed for students considering a career in academic or industrial research.]</li>
       
   </ul>
   
