@@ -1,5 +1,4 @@
 # BSc-Computer-Science-CourseWork
-[![Alt Text]([image-url](https://www.nasa.gov/wp-content/uploads/2023/03/iss061e045447.jpg?w=1041))]
 Based on University of Cambridge BSc Computerscience Degree Curriculum and Time table(https://www.cl.cam.ac.uk/teaching/2223/part3.html)
 (https://2024-25.timetable.cam.ac.uk/)
 (https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng)
@@ -12,7 +11,7 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
     
 </head>
 <body>
-
+  <img src="https://www.nasa.gov/wp-content/uploads/2023/03/iss061e045447.jpg?w=1041" alt="CS" width="720" height="320">
   <h1>Computer Science</h1>
 
   <p>Welcome to my Computer Science corner! This page provides an overview of my University coursework, projects, interests, and contributions in the field of computer science.</p>
@@ -116,16 +115,10 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
 
   <h2>Contact</h2>
   <ul>
-      <li><a href="your-github-profile-link">Your GitHub Profile</a></li>
-      <li><a href="your-linkedin-profile-link">Your LinkedIn Profile</a></li>
-      <li><a href="mailto:your-email-address">Your Email Address</a></li>
+      <li><a href="https://github.com/Arignan">GitHub Profile</a></li>
+      <li><a href="https://www.linkedin.com/in/arignansritharan">LinkedIn Profile</a></li>
+      <li><a href="mailto:no">Your Email Address</a></li>
   </ul>
-
-  <h2>How to use this template</h2>
-  <ol>
-      <li><strong>Replace the bracketed placeholders</strong> with your own information.</li>
-      <li><strong>Add or remove sections</strong> as needed.</li>
-  </ol>
 
 </body>
 </html>
