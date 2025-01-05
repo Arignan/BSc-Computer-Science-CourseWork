@@ -24,8 +24,8 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
   <p>Here are Main 3 Terms:</p>
 
   <ul>
-    <li><a href="link-to-project-1">Year 1 (Part IA)</a>: [Brief description of the project. What problem does it solve? What technologies did you use?]</li>
-      <p>You take 4 papers, including 3 compulsory Computer Science papers, covering topics such as:</p>
+    <li><a href="link-to-project-1">Year 1 (Part IA)</a>: </li>
+      <p>[You take 4 papers, including 3 compulsory Computer Science papers, covering topics such as:]</p>
       <ul>
     	<li>foundations of computer science, taught in OCaml</li>
     	<li>Java and object-oriented programming</li>
@@ -36,8 +36,8 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
     	<li>machine learning</li>
      </ul>
      <p>You will also take a Mathematics paper, from the first year of the Natural Sciences course.</p>
-    <li><a href="link-to-project-2">Year 2 (Part IB)</a>: [Brief description of the project. What problem does it solve? What technologies did you use?]</li>
-      <p>You take 4 papers, spanning core topics:</p>
+    <li><a href="link-to-project-2">Year 2 (Part IB)</a>:</li>
+      <p>[You take 4 papers, spanning core topics:]</p>
       <ul>
         <li>theory – including logic and proof, computation theory</li>
         <li>systems – including computer architecture, computer networking</li>
@@ -45,8 +45,8 @@ Based on University of Cambridge BSc Computerscience Degree Curriculum and Time 
         <li>human aspects – including Human Interaction design, Artificial Intelligence</li>
       </ul>
       <p>You also undertake a group project, which reflects current industrial practice.</p>
-    <li><a href="link-to-project-3">Year 3 (Part II)</a>: [Brief description of the project. What problem does it solve? What technologies did you use?]</li>
-      <p>You choose from a large selection of topics which allows you to concentrate on an area of interest to you, such as:</p>
+    <li><a href="link-to-project-3">Year 3 (Part II)</a>:</li>
+      <p>[You choose from a large selection of topics which allows you to concentrate on an area of interest to you, such as:]</p>
       <ul>
     	<li>computer architecture</li>
     	<li>applications (including bioinformatics and natural language processing)</li>
